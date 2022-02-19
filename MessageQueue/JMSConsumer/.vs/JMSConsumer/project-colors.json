@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5983922c-35ab-4c73-98fb-820dd395b236": {
+      "ProjectGuid": "5983922c-35ab-4c73-98fb-820dd395b236",
+      "DisplayName": "JMSConsumer",
+      "ColorIndex": 0
+    },
+    "62f8b598-c404-4550-96a7-c51e0ad56c4b": {
+      "ProjectGuid": "62f8b598-c404-4550-96a7-c51e0ad56c4b",
+      "DisplayName": "JMSProxyLib",
+      "ColorIndex": 1
+    },
+    "30b82afb-8c9f-4e62-978f-ceb7fc9a8bb3": {
+      "ProjectGuid": "30b82afb-8c9f-4e62-978f-ceb7fc9a8bb3",
+      "DisplayName": "OpenMQLib",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

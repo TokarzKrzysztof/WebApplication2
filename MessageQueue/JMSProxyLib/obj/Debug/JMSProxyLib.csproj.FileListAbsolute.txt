@@ -1,0 +1,27 @@
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\JMSProxyLib\bin\Debug\JMSProxyLib.dll
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\JMSProxyLib\bin\Debug\JMSProxyLib.pdb
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\JMSProxyLib\bin\Debug\OpenMQLib.dll
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\JMSProxyLib\bin\Debug\OpenMQLib.pdb
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\JMSProxyLib\obj\Debug\JMSProxyLib.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\JMSProxyLib\obj\Debug\JMSProxyLib.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\JMSProxyLib\obj\Debug\JMSProxyLib.csproj.CopyComplete
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\JMSProxyLib\obj\Debug\JMSProxyLib.dll
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\JMSProxyLib\obj\Debug\JMSProxyLib.pdb
+C:\Users\Krzysiek\Desktop\openmq test core\JMSProxyLib\bin\Debug\JMSProxyLib.dll
+C:\Users\Krzysiek\Desktop\openmq test core\JMSProxyLib\bin\Debug\JMSProxyLib.pdb
+C:\Users\Krzysiek\Desktop\openmq test core\JMSProxyLib\bin\Debug\OpenMQLib.dll
+C:\Users\Krzysiek\Desktop\openmq test core\JMSProxyLib\bin\Debug\OpenMQLib.pdb
+C:\Users\Krzysiek\Desktop\openmq test core\JMSProxyLib\obj\Debug\JMSProxyLib.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\Desktop\openmq test core\JMSProxyLib\obj\Debug\JMSProxyLib.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\Desktop\openmq test core\JMSProxyLib\obj\Debug\JMSProxyLib.dll
+C:\Users\Krzysiek\Desktop\openmq test core\JMSProxyLib\obj\Debug\JMSProxyLib.pdb
+C:\Users\krzys\Desktop\openMQ\JMSProxyLib\bin\Debug\JMSProxyLib.dll
+C:\Users\krzys\Desktop\openMQ\JMSProxyLib\bin\Debug\JMSProxyLib.pdb
+C:\Users\krzys\Desktop\openMQ\JMSProxyLib\bin\Debug\OpenMQLib.dll
+C:\Users\krzys\Desktop\openMQ\JMSProxyLib\bin\Debug\OpenMQLib.pdb
+C:\Users\krzys\Desktop\openMQ\JMSProxyLib\obj\Debug\JMSProxyLib.csproj.AssemblyReference.cache
+C:\Users\krzys\Desktop\openMQ\JMSProxyLib\obj\Debug\JMSProxyLib.csproj.CoreCompileInputs.cache
+C:\Users\krzys\Desktop\openMQ\JMSProxyLib\obj\Debug\JMSProxyLib.csproj.CopyComplete
+C:\Users\krzys\Desktop\openMQ\JMSProxyLib\obj\Debug\JMSProxyLib.dll
+C:\Users\krzys\Desktop\openMQ\JMSProxyLib\obj\Debug\JMSProxyLib.pdb
+C:\Users\Krzysiek\Desktop\openmq test core\JMSProxyLib\obj\Debug\JMSProxyLib.csproj.CopyComplete

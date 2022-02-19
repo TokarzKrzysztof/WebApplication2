@@ -1,0 +1,34 @@
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\JMSConsumer\bin\Debug\JMSConsumer.exe
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\JMSConsumer\bin\Debug\JMSConsumer.pdb
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\JMSConsumer\bin\Debug\JMSProxyLib.dll
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\JMSConsumer\bin\Debug\OpenMQLib.dll
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\JMSConsumer\bin\Debug\JMSProxyLib.pdb
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\JMSConsumer\bin\Debug\OpenMQLib.pdb
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\JMSConsumer\obj\Debug\JMSConsumer.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\JMSConsumer\obj\Debug\JMSConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\JMSConsumer\obj\Debug\JMSConsumer.exe
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\JMSConsumer\obj\Debug\JMSConsumer.pdb
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\JMSConsumer\obj\Debug\JMSConsumer.csproj.CopyComplete
+C:\Users\Krzysiek\Desktop\openmq test core\JMSConsumer\bin\Debug\JMSConsumer.pdb
+C:\Users\Krzysiek\Desktop\openmq test core\JMSConsumer\bin\Debug\JMSProxyLib.dll
+C:\Users\Krzysiek\Desktop\openmq test core\JMSConsumer\bin\Debug\OpenMQLib.dll
+C:\Users\Krzysiek\Desktop\openmq test core\JMSConsumer\bin\Debug\JMSProxyLib.pdb
+C:\Users\Krzysiek\Desktop\openmq test core\JMSConsumer\bin\Debug\OpenMQLib.pdb
+C:\Users\Krzysiek\Desktop\openmq test core\JMSConsumer\obj\Debug\JMSConsumer.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\Desktop\openmq test core\JMSConsumer\obj\Debug\JMSConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\Desktop\openmq test core\JMSConsumer\obj\Debug\JMSConsumer.pdb
+C:\Users\krzys\Desktop\openMQ\JMSConsumer\bin\Debug\JMSConsumer.exe
+C:\Users\krzys\Desktop\openMQ\JMSConsumer\bin\Debug\JMSConsumer.pdb
+C:\Users\krzys\Desktop\openMQ\JMSConsumer\bin\Debug\JMSProxyLib.dll
+C:\Users\krzys\Desktop\openMQ\JMSConsumer\bin\Debug\OpenMQLib.dll
+C:\Users\krzys\Desktop\openMQ\JMSConsumer\bin\Debug\JMSProxyLib.pdb
+C:\Users\krzys\Desktop\openMQ\JMSConsumer\bin\Debug\OpenMQLib.pdb
+C:\Users\krzys\Desktop\openMQ\JMSConsumer\obj\Debug\JMSConsumer.csproj.AssemblyReference.cache
+C:\Users\krzys\Desktop\openMQ\JMSConsumer\obj\Debug\JMSConsumer.csproj.CoreCompileInputs.cache
+C:\Users\krzys\Desktop\openMQ\JMSConsumer\obj\Debug\JMSConsumer.csproj.CopyComplete
+C:\Users\krzys\Desktop\openMQ\JMSConsumer\obj\Debug\JMSConsumer.exe
+C:\Users\krzys\Desktop\openMQ\JMSConsumer\obj\Debug\JMSConsumer.pdb
+C:\Users\krzys\Desktop\openMQ\JMSConsumer\bin\Debug\JMSConsumer.exe.config
+C:\Users\Krzysiek\Desktop\openmq test core\JMSConsumer\bin\Debug\JMSConsumer.dll.config
+C:\Users\Krzysiek\Desktop\openmq test core\JMSConsumer\bin\Debug\JMSConsumer.dll
+C:\Users\Krzysiek\Desktop\openmq test core\JMSConsumer\obj\Debug\JMSConsumer.dll

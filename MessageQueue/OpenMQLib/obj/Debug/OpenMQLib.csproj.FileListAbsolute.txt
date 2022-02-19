@@ -1,0 +1,17 @@
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\OpenMQLib\bin\Debug\OpenMQLib.dll
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\OpenMQLib\bin\Debug\OpenMQLib.pdb
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\OpenMQLib\obj\Debug\OpenMQLib.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\OpenMQLib\obj\Debug\OpenMQLib.dll
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\OpenMQLib\obj\Debug\OpenMQLib.pdb
+C:\Users\Krzysiek\Desktop\test openmq\openmq test core\OpenMQLib\obj\Debug\OpenMQLib.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\Desktop\openmq test core\OpenMQLib\bin\Debug\OpenMQLib.dll
+C:\Users\Krzysiek\Desktop\openmq test core\OpenMQLib\bin\Debug\OpenMQLib.pdb
+C:\Users\Krzysiek\Desktop\openmq test core\OpenMQLib\obj\Debug\OpenMQLib.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\Desktop\openmq test core\OpenMQLib\obj\Debug\OpenMQLib.dll
+C:\Users\Krzysiek\Desktop\openmq test core\OpenMQLib\obj\Debug\OpenMQLib.pdb
+C:\Users\krzys\Desktop\openMQ\OpenMQLib\bin\Debug\OpenMQLib.dll
+C:\Users\krzys\Desktop\openMQ\OpenMQLib\bin\Debug\OpenMQLib.pdb
+C:\Users\krzys\Desktop\openMQ\OpenMQLib\obj\Debug\OpenMQLib.csproj.AssemblyReference.cache
+C:\Users\krzys\Desktop\openMQ\OpenMQLib\obj\Debug\OpenMQLib.csproj.CoreCompileInputs.cache
+C:\Users\krzys\Desktop\openMQ\OpenMQLib\obj\Debug\OpenMQLib.dll
+C:\Users\krzys\Desktop\openMQ\OpenMQLib\obj\Debug\OpenMQLib.pdb
