@@ -3,4 +3,7 @@ C:\Users\Krzysiek\Desktop\WebApplication2\MessageQueue\bin\Debug\MessageQueue.pd
 C:\Users\Krzysiek\Desktop\WebApplication2\MessageQueue\obj\Debug\MessageQueue.csproj.CoreCompileInputs.cache
 C:\Users\Krzysiek\Desktop\WebApplication2\MessageQueue\obj\Debug\MessageQueue.exe
 C:\Users\Krzysiek\Desktop\WebApplication2\MessageQueue\obj\Debug\MessageQueue.pdb
-C:\Users\Krzysiek\Desktop\WebApplication2\MessageQueue\obj\Debug\MessageQueue.csprojAssemblyReference.cache
+C:\Users\Krzysiek\Desktop\WebApplication2\MessageQueue\obj\Debug\MessageQueue.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\Desktop\WebApplication2\MessageQueue\bin\Debug\Bugsnag.dll
+C:\Users\Krzysiek\Desktop\WebApplication2\MessageQueue\bin\Debug\Bugsnag.xml
+C:\Users\Krzysiek\Desktop\WebApplication2\MessageQueue\obj\Debug\MessageQueue.csproj.CopyComplete

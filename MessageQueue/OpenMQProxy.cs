@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.ExceptionServices;
 using System.Text;
 
 
@@ -164,7 +165,7 @@ namespace OpenMQLib
 					new OpenMQNative.MQMessageListenerDelegate(AsyncMessageCallback);
 
 				OpenMQNative.MQStatus res = OpenMQNative.MQCreateAsyncMessageConsumer(sessionHandle,
-					destinationHandle, null, (Int32)OpenMQNative.MQ_FALSE, callback,
+					destinationHandle, null, (Int32)OpenMQNative.MQ_TRUE, callback,
 					IntPtr.Zero,
 					ref consumerHandle);
 				if (OpenMQNative.MQ_ERR_CHK(res))
@@ -189,7 +190,7 @@ namespace OpenMQLib
 			if (OpenMQNative.MQ_ERR_CHK(res))
 				throw new OpenMQException("Error starting connection " + res.errorCode);
 		}
-
+		[HandleProcessCorruptedStateExceptions]
 
 		public void ReceiveMessageWithWait(OpenMQNative.MQHandle consumerHandle, 
 			OpenMQNative.MQHandle sessionHandle,

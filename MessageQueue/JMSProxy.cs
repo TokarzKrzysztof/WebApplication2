@@ -121,14 +121,10 @@ namespace JMSProxyLib
 		{
 			try
 			{
-				bool keepReading = true;
-				do
-				{
-					StringBuilder messageText = new StringBuilder(3000);
-					mqProxy.ReceiveMessageWithWait(producer_consumer_Handle, sessionHandle, 
-						ref messageText);
-					keepReading = msgHandler(messageText.ToString());
-				} while (keepReading);								
+				StringBuilder messageText = new StringBuilder(3000);
+				mqProxy.ReceiveMessageWithWait(producer_consumer_Handle, sessionHandle,
+					ref messageText);
+				 msgHandler(messageText.ToString());
 			}
 			catch (OpenMQException ex)
 			{

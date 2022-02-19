@@ -8,5 +8,6 @@ C:\Users\Krzysiek\Desktop\WebApplication2\WebApplication2\bin\MessageQueue.exe
 C:\Users\Krzysiek\Desktop\WebApplication2\WebApplication2\bin\MessageQueue.pdb
 C:\Users\Krzysiek\Desktop\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
 C:\Users\Krzysiek\Desktop\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
-C:\Users\Krzysiek\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
-C:\Users\Krzysiek\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\Krzysiek\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\Desktop\WebApplication2\WebApplication2\bin\Bugsnag.dll
+C:\Users\Krzysiek\Desktop\WebApplication2\WebApplication2\bin\Bugsnag.xml
