@@ -21,15 +21,9 @@ namespace WebApplication2
         [WebMethod]
         public void GetMessage()
         {
-            try
-            {
+
             Consumer.Start();
 
-            }
-            catch(Exception ex)
-            {
-
-            }
         }
 
         [WebMethod]
